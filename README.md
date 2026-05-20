@@ -32,7 +32,7 @@ A cybersecurity student and open-source tool developer focused on offensive secu
 
 ---
 
-![!info] ### 🎯 Active Projects & Labs
+### 🎯 Active Projects & Labs
 
 - **[Network_scan](https://github.com/gArCiAcyber/Network_scan)** - A modular TCP port scanner and banner grabber for automated pentest reconnaissance.
 - **CTF-Writeups** - Documentation and proof-of-concepts from hacking boxes and challenges (Coming soon).
