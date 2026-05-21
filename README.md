@@ -23,10 +23,61 @@ Status   : 🟢 Refining HylianScan v0.4 (Active Probing & CLI Engine)
 Learning : Advanced Vulnerability Mapping & Network Auditing
 Toolbox  : Configured and organized via Obsidian
 ````
+
 ### My Skills
 
+<table>
+<tr>
 
+<td valign="top" width="33%">
 
+### 🌐 Offensive Skills
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Recon-blue?style=for-the-badge" alt="Recon" />
+  <img src="https://img.shields.io/badge/Enumeration-red?style=for-the-badge" alt="Enumeration" />
+  <img src="https://img.shields.io/badge/Banner_Grabbing-orange?style=for-the-badge" alt="Banner Grabbing" />
+  <img src="https://img.shields.io/badge/Web_Analysis-purple?style=for-the-badge" alt="Web Analysis" />
+</p>
 
+<p align="center">
 
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🛠️ Main Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-0054FF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Caido-black?style=for-the-badge" alt="Caido" />
+</p>
+
+<p align="center">
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🐧 Environments
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+</p>
+
+<p align="center">
+
+</p>
+
+</td>
+
+</tr>
+</table>
