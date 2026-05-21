@@ -23,14 +23,36 @@ Status   : 🟢 Refining HylianScan v0.4 (Active Probing & CLI Engine)
 Learning : Advanced Vulnerability Mapping & Network Auditing
 Toolbox  : Configured and organized via Obsidian
 
-Tech Stack & Tools
-Category	Skills & Technologies
-Languages	 (Fluent)  •   (Learning)
-OS / Environment	  
-Sec Tools	Nmap Subfinder Metasploit WhatWeb cURL Netcat Caido ffuf Wireshark
-Platforms	
-📊 GitHub Stats
-🗺️ Active Quests & Labs
-Network_scan - HylianScan: A modular TCP port scanner and banner grabber designed for tactical network reconnaissance and automated information gathering.
+### ⚔️ Skills & Arsenal
 
-CTF-Writeups - Documentation, exploit analysis, and proof-of-concepts from hacking platforms and security challenges (Coming soon).
+#### 🌐 Network Recon & Enumeration
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge\&logo=nmap\&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-111111?style=for-the-badge\&logo=hackthebox\&logoColor=green)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-222222?style=for-the-badge\&logo=firefoxbrowser\&logoColor=orange)
+![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-0f0f0f?style=for-the-badge\&logo=linux\&logoColor=white)
+
+---
+
+#### 🧠 Offensive Security & Analysis
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge\&logo=ghostery\&logoColor=red)
+![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge\&logo=curl\&logoColor=white)
+
+---
+
+#### 💻 Languages & Automation
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+---
+
+#### 🐧 Platforms & Workflow
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge\&logo=obsidian\&logoColor=white)
