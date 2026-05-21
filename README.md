@@ -22,13 +22,12 @@ Focus    : Network Reconnaissance | Web Enumeration | Penetration Testing
 Status   : 🟢 Refining HylianScan v0.4 (Active Probing & CLI Engine)
 Learning : Advanced Vulnerability Mapping & Network Auditing
 Toolbox  : Configured and organized via Obsidian
-
+````
 ### ⚔️ Skills & Arsenal
 
 #### 🌐 Network Recon & Enumeration
 
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge\&logo=nmap\&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-111111?style=for-the-badge\&logo=hackthebox\&logoColor=green)
 ![WhatWeb](https://img.shields.io/badge/WhatWeb-222222?style=for-the-badge\&logo=firefoxbrowser\&logoColor=orange)
 ![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-0f0f0f?style=for-the-badge\&logo=linux\&logoColor=white)
