@@ -51,10 +51,11 @@ Toolbox  : Configured and organized via Obsidian
 ### 🛠️ Main Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-0054FF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nmap-0054FF?style=for-the-badge&logo=nmap&logoColor=blue" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge" alt="ffuf" />
-  <img src="https://img.shields.io/badge/Caido-black?style=for-the-badge" alt="Caido" />
+  <img src="https://img.shields.io/badge/ffuf-blue?style=for-the-badge" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Caido-orange?style=for-the-badge" alt="Caido" />
+  <img src="https://img.shields.io/badge/Subfinder-black?style=for-the-badge" alt="Subfinder" />
 </p>
 
 <p align="center">
@@ -71,11 +72,9 @@ Toolbox  : Configured and organized via Obsidian
 <p align="center">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
+  <img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=Git&logoColor=red" alt="Git" /> 
 </p>
 
 
