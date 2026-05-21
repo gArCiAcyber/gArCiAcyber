@@ -22,7 +22,7 @@ Focus    : Network Reconnaissance | Web Enumeration | Penetration Testing
 Status   : 🟢 Refining HylianScan v0.4 (Active Probing & CLI Engine)
 Learning : Advanced Vulnerability Mapping & Network Auditing
 Toolbox  : Configured and organized via Obsidian
-````
+```
 
 ### My Skills
 
