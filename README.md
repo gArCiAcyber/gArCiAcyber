@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/gArCiAcyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=echo+%27Welcome+to+the+Sacred+Realm%27;whoami+--identity+cylink;cat+/etc/hostname+%3E+Kalice;Pentesting+%26+Offensive+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=echo+%27Welcome+to+the+Sacred+Shrine%27;whoami+--identity+cylink;cat+/etc/hostname+%3E+Kali;Pentesting+%26+Offensive+Security" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@ A cybersecurity student and open-source tool developer focused on offensive secu
 ### About Me 
 
 ```bash
-┌──(cylink㉿Kalice)─[~]
+┌──(gArCiAcyber㉿Kali)─[~]
 └─$ whoami
 
 Name     : Erick Garcia
@@ -29,12 +29,12 @@ Toolbox  : Configured and organized via Obsidian
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 🌐 Offensive Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recon-blue?style=for-the-badge" alt="Recon" />
+  <img src="https://img.shields.io/badge/Recon-red?style=for-the-badge" alt="Recon" />
   <img src="https://img.shields.io/badge/Enumeration-red?style=for-the-badge" alt="Enumeration" />
   <img src="https://img.shields.io/badge/Banner_Grabbing-orange?style=for-the-badge" alt="Banner Grabbing" />
   <img src="https://img.shields.io/badge/Web_Analysis-purple?style=for-the-badge" alt="Web Analysis" />
@@ -46,7 +46,7 @@ Toolbox  : Configured and organized via Obsidian
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 🛠️ Main Tools
 
@@ -63,15 +63,22 @@ Toolbox  : Configured and organized via Obsidian
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
-### 🐧 Environments
+### 💻 Languages & Scripting
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
 </p>
+
+
 
 <p align="center">
 
@@ -81,3 +88,38 @@ Toolbox  : Configured and organized via Obsidian
 
 </tr>
 </table>
+
+
+
+
+
+---
+
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+
+<td valign="top" width="50%" align="center">
+
+### 📈 Profile Stats
+
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gArCiAcyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</td>
+
+<td valign="top" width="50%" align="center">
+
+### 🧠 Most Used Languages
+
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gArCiAcyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</td>
+
+</tr>
+</table>
+
+
+</p>
+
