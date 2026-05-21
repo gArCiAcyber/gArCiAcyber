@@ -10,7 +10,7 @@ A cybersecurity student and open-source tool developer focused on offensive secu
 
 ---
 
-### 🛡️ About Me (Terminal Session)
+### About Me 
 
 ```bash
 ┌──(cylink㉿Kalice)─[~]
@@ -22,3 +22,19 @@ Focus    : Network Reconnaissance | Web Enumeration | Penetration Testing
 Status   : 🟢 Refining HylianScan v0.4 (Active Probing & CLI Engine)
 Learning : Advanced Vulnerability Mapping & Network Auditing
 Toolbox  : Configured and organized via Obsidian
+
+---
+
+###  Tech Stack & Tools
+
+Aqui eu já adicionei um badge clicável para o seu Hack The Box, organizando as linguagens com os níveis que você comentou e atualizando as ferramentas exatas.
+
+```markdown
+### ⚔️ Tech Stack & Tools
+
+|||
+| :--- | :--- |
+| **Languages** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) (Fluent) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) (Learning) |
+| **OS / Environment** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Sec Tools** | `Nmap` `Subfinder` `Metasploit` `WhatWeb` `cURL` `Netcat` `Caido` `ffuf` `Wireshark` |
+| **Platforms** | [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=111927)](SUBSTITUA_PELO_SEU_LINK_DO_HTB) |
