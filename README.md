@@ -19,7 +19,7 @@ A cybersecurity student and open-source tool developer focused on offensive secu
 Name     : Erick Garcia
 Role     : Cybersecurity Student & Open-Source Developer
 Focus    : Network Reconnaissance | Web Enumeration | Penetration Testing
-Status   : 🟢 Refining HylianScan v0.4 (Active Probing & CLI Engine)
+Status   : 🟢 Refining HylianScan 
 Learning : Advanced Vulnerability Mapping & Network Auditing
 Toolbox  : Configured and organized via Obsidian
 ```
