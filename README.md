@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A cybersecurity student and open-source tool developer focused on offensive security, network reconnaissance, and penetration testing. 18y from 🇧🇷
+A cybersecurity student and open-source tool developer focused on offensive security, network reconnaissance, and penetration testing. 19y from 🇧🇷
 
 ---
 
