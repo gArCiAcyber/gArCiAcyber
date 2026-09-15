@@ -120,8 +120,6 @@ Toolbox  : Configured and organized via Obsidian
 </table>
 
 
-### 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
