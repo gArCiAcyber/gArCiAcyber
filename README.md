@@ -104,7 +104,7 @@ Toolbox  : Configured and organized via Obsidian
 
 ### 📈 Profile Stats
 ---
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gArCiAcyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="165em" src="./profile/stats.svg" alt="GitHub profile statistics" />
 
 </td>
 
@@ -112,7 +112,7 @@ Toolbox  : Configured and organized via Obsidian
 
 ### 🧠 Most Used Languages
 ---
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gArCiAcyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="165em" src="./profile/top-langs.svg" alt="Most used programming languages" />
 
 </td>
 
@@ -120,8 +120,15 @@ Toolbox  : Configured and organized via Obsidian
 </table>
 
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="./profile/github-contribution-grid-snake.svg" />
+</picture>
+
 </p>
 
-  
-   <h2 align="center"> My Repos⬇️ </h2>
+  <h2 align="center"> My Repos⬇️ </h2>
    
