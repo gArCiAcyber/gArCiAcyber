@@ -1,0 +1,53 @@
+name: Update profile graphics
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - "profile/*.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  update-graphics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - name: Generate profile statistics
+        uses: stats-organization/github-readme-stats-action@abb8761d64babb580b336af88cccb2db39063440 # pinned revision
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@abb8761d64babb580b336af88cccb2db39063440 # pinned revision
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate contribution snake
+        uses: Platane/snk@a041d6c27ba561a39f5be9c26a784812765e434b # pinned revision
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-contribution-grid-snake.svg?color_snake=00ff41
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ff41
+
+      - name: Commit updated graphics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "chore(profile): update statistics and contribution snake"
+          git push
