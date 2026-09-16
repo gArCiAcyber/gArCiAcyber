@@ -16,7 +16,7 @@ A Cybersecurity student and open-source tool developer focused on offensive secu
 
 ---
 
-### About Me 
+## About Me 
 
 ```bash
 ┌──(gArCiAcyber㉿Kali)─[~]
@@ -29,7 +29,7 @@ Status   : 🟢 Working in HylianScan
 Learning : Web Application Security & GraphQL & REST & Cloud
 ```
 
-### My Skills
+## My Skills
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ Learning : Web Application Security & GraphQL & REST & Cloud
 ---
 
 
-### 📊 Stats
+## 📊 Stats
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ Learning : Web Application Security & GraphQL & REST & Cloud
 
 </p>
 
-### 🔗 Links
+## 🔗 Links
 
 <p align="center">
   <a href="https://profile.hackthebox.com/profile/019d936e-843b-73bb-94d5-5fec73b43f74">
