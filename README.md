@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A cybersecurity student and open-source tool developer focused on offensive security, network reconnaissance, and penetration testing. 19y from 🇧🇷
+A cybersecurity student and open-source tool developer focused on offensive security, reconnaissance, and penetration testing. 19y from 🇧🇷
 
 ---
 
@@ -17,11 +17,10 @@ A cybersecurity student and open-source tool developer focused on offensive secu
 └─$ whoami
 
 Name     : Erick Garcia
-Role     : Cybersecurity Student & Open-Source Developer
-Focus    : Network Reconnaissance | Web Enumeration | Penetration Testing
-Status   : 🟢 Refining HylianScan 
-Learning : Advanced Vulnerability Mapping & Network Auditing
-Toolbox  : Configured and organized via Obsidian
+Role     : Cybersecurity Student & Open-Source Developer & Red Team
+Focus    : Reconnaissance | Web Enumeration | Penetration Testing
+Status   : 🟢 Working in HylianScan 
+Learning : Advanced Web Application Security & GraphQL & REST & Cloud
 ```
 
 ### My Skills
@@ -34,10 +33,10 @@ Toolbox  : Configured and organized via Obsidian
 ### 🌐 Offensive Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recon-red?style=for-the-badge" alt="Recon" />
-  <img src="https://img.shields.io/badge/Enumeration-red?style=for-the-badge" alt="Enumeration" />
-  <img src="https://img.shields.io/badge/Banner_Grabbing-orange?style=for-the-badge" alt="Banner Grabbing" />
-  <img src="https://img.shields.io/badge/Web_Analysis-purple?style=for-the-badge" alt="Web Analysis" />
+  <img src="https://img.shields.io/badge/Recon_%26_OSINT-green?style=for-the-badge" alt="Recon & OSINT" />
+  <img src="https://img.shields.io/badge/Enumeration-green?style=for-the-badge" alt="Enumeration" />
+  <img src="https://img.shields.io/badge/Exploitation-green?style=for-the-badge" alt="Exploitation" />
+  <img src="https://img.shields.io/badge/API-Fuzz-green?style=for-the-badge" alt="API-Testing" />
 </p>
 
 <p align="center">
@@ -51,11 +50,11 @@ Toolbox  : Configured and organized via Obsidian
 ### 🛠️ Main Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-0054FF?style=for-the-badge&logo=nmap&logoColor=blue" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nmap-0054FF?style=for-the-badge&logo=nmap&logoColor=green" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/ffuf-blue?style=for-the-badge" alt="ffuf" />
   <img src="https://img.shields.io/badge/Caido-orange?style=for-the-badge" alt="Caido" />
-  <img src="https://img.shields.io/badge/Subfinder-black?style=for-the-badge" alt="Subfinder" />
+  <img src="https://img.shields.io/badge/Subfinder & Amass-black?style=for-the-badge" alt="Subfinder" />
 </p>
 
 <p align="center">
@@ -68,16 +67,11 @@ Toolbox  : Configured and organized via Obsidian
 
 ### 💻 Languages & Scripting
 
-
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=Git&logoColor=red" alt="Git" /> 
 </p>
-
-
 
 <p align="center">
 
@@ -91,18 +85,16 @@ Toolbox  : Configured and organized via Obsidian
 
 
 
-
 ---
 
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <table>
 <tr>
 
 <td valign="top" width="50%" align="center">
 
-### 📈 Profile Stats
 ---
 <img height="165em" src="./profile/stats.svg" alt="GitHub profile statistics" />
 
@@ -110,7 +102,6 @@ Toolbox  : Configured and organized via Obsidian
 
 <td valign="top" width="50%" align="center">
 
-### 🧠 Most Used Languages
 ---
 <img height="165em" src="./profile/top-langs.svg" alt="Most used programming languages" />
 
