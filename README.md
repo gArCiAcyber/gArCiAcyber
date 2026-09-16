@@ -26,7 +26,7 @@ Name     : Erick Garcia
 Role     : Cybersecurity Student & Open-Source Developer & Red Team
 Focus    : Reconnaissance | Web Enumeration | Penetration Testing
 Status   : 🟢 Working in HylianScan 
-Learning : Advanced Web Application Security & GraphQL & REST & Cloud
+Learning : Web Application Security & GraphQL & REST & Cloud
 ```
 
 ### My Skills
