@@ -6,7 +6,13 @@
   </a>
 </p>
 
-A cybersecurity student and open-source tool developer focused on offensive security, reconnaissance, and penetration testing. 19y from 🇧🇷
+
+
+A Cybersecurity student and open-source tool developer focused on offensive security, reconnaissance, and penetration testing. 19y from 🇧🇷
+
+<p align="center">
+  <em>Kali linux • Hack the box • HackerOne</em>
+</p>
 
 ---
 
@@ -30,51 +36,39 @@ Learning : Advanced Web Application Security & GraphQL & REST & Cloud
 
 <td valign="top" width="33%" align="center">
 
-### 🌐 Offensive Skills
+🌐 Main Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recon_%26_OSINT-green?style=for-the-badge" alt="Recon & OSINT" />
-  <img src="https://img.shields.io/badge/Enumeration-green?style=for-the-badge" alt="Enumeration" />
-  <img src="https://img.shields.io/badge/Exploitation-green?style=for-the-badge" alt="Exploitation" />
-  <img src="https://img.shields.io/badge/API-Fuzz-green?style=for-the-badge" alt="API-Testing" />
-</p>
-
-<p align="center">
-
+  <img src="https://img.shields.io/badge/Recon_%26_OSINT-239120?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" alt="Recon & OSINT" />
+  <img src="https://img.shields.io/badge/Enumeration-239120?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" alt="Enumeration" />
+  <img src="https://img.shields.io/badge/Exploitation-239120?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" alt="Exploitation" />
+  <img src="https://img.shields.io/badge/API--Fuzz-239120?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" alt="API Testing" />
 </p>
 
 </td>
 
 <td valign="top" width="33%" align="center">
 
-### 🛠️ Main Tools
+🛠️ Tooling
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-0054FF?style=for-the-badge&logo=nmap&logoColor=green" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/ffuf-blue?style=for-the-badge" alt="ffuf" />
-  <img src="https://img.shields.io/badge/Caido-orange?style=for-the-badge" alt="Caido" />
-  <img src="https://img.shields.io/badge/Subfinder & Amass-black?style=for-the-badge" alt="Subfinder" />
-</p>
-
-<p align="center">
-
+  <img src="https://img.shields.io/badge/Nmap-239120?style=for-the-badge&labelColor=0D1117&logo=nmap&logoColor=239120" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-239120?style=for-the-badge&labelColor=0D1117&&logoColor=239120" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/ffuf-239120?style=for-the-badge&labelColor=0D1117&logoColor=239120" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Caido-239120?style=for-the-badge&labelColor=0D1117&logoColor=239120" alt="Caido" />
+  <img src="https://img.shields.io/badge/Subfinder_%26_Amass-239120?style=for-the-badge&labelColor=0D1117&logoColor=239120" alt="Subfinder & Amass" />
 </p>
 
 </td>
 
 <td valign="top" width="33%" align="center">
 
-### 💻 Languages & Scripting
+💻 Languages & Scripting
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-<p align="center">
-
+  <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=00FF00" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-239120?style=for-the-badge&labelColor=0D1117&logo=gnubash&logoColor=00FF00" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-239120?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor=00FF00" alt="SQL" />
 </p>
 
 </td>
@@ -82,13 +76,15 @@ Learning : Advanced Web Application Security & GraphQL & REST & Cloud
 </tr>
 </table>
 
+</tr>
+</table>
 
 
 
 ---
 
 
-## 📊 Stats
+### 📊 Stats
 
 <table>
 <tr>
